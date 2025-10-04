@@ -1,1 +1,3 @@
-ECHO est  ativado.
+hello word
+
+ECHO estï¿½ ativado.
